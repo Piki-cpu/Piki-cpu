@@ -3,7 +3,8 @@
 - propulsión de la belleza.
 - 💀 muerte en la derrota.
 - 🔱 autoritarismo religioso 🔱
-- peaje$barrera de ingreso$
+- peaje $barreras de ingreso$
+- habilitacion integra suprema
 - 🔥 Fuego
 
 <!---
