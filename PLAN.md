@@ -3,20 +3,20 @@
 ## 1. Seguridad Integral (Individual)
 - **Objetivo**: Cobrar equivalencia
 - **Alcance**: Casa, Auto, Moto
-- **Destino**: DESTINO
+- **Destino**: CAPITAL
 
-## 2. Estilismo (Reestructuración)
-- **Objetivo**: Adquirir autosustentabilidad
+## 2. Estilismo (Estructuración)
+- **Objetivo**: Autosustentabilidad
 - **Alcance**: Objetos
 - **Destino**: ENERGÍA
 
 ## 3. Transporte (Conjunto)
 - **Costo**: 260.000 USD
-- **Estado**: En planificación
+- **Estado**: *ADQUIRIR*
 
 ## 4. Comida (Incorporación)
 - **Objetivo**: Residir
-- **Estado**: En planificación
+- **Estado**: *CONFORMAR*
 
 ## Principios Fundamentales
 - Integridad absoluta
