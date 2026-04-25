@@ -4,7 +4,7 @@
 - 💀 muerte en la derrota.
 - 🔱 autoritarismo religioso 🔱
 - peaje $barreras de ingreso$
-- habilitacion integra suprema
+- habilitación integra suprema
 - 🔥 Fuego
 
 <!---
