@@ -1,0 +1,12 @@
+# Team J / Grupo Anexo
+
+body = team j
+  - grupo: anexo
+
+# Descripción
+
+Team J es el equipo asociado al grupo Anexo.
+
+# Relación
+
+- team j -> anexo
