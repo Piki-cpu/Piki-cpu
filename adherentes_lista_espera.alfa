@@ -1,0 +1,10 @@
+# Adherentes de users registrados en lista de espera
+
+body = adherentes de users registrados en lista de espera
+  - usuarios: lista de espera
+    - status: registrados
+    - tipo: adherente
+
+derivados:
+  .adherentes: usuarios en espera
+  .registro: confirmado

@@ -1,0 +1,10 @@
+# inherass
+
+body = inherass
+  - tipo: herencia
+  - metodo: *skymask
+
+derivados:
+  .alfa: estructura inicial
+  .beta: derivado primario
+  .omega: derivado final
